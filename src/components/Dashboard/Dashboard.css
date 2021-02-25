@@ -1,0 +1,7 @@
+.all-users {
+  width: 1000px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background-color: blueviolet;
+}

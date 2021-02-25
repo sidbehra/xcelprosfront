@@ -1,0 +1,40 @@
+.card {
+  display: inline;
+}
+
+.card-body {
+  width: 270px;
+  height: auto;
+  border-radius: 5%;
+  margin: 10px;
+  padding: 20px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+}
+
+.image-box {
+  text-align: center;
+}
+
+.name-section {
+  text-align: center;
+}
+
+.user-details {
+  margin-top: 20px;
+}
+.user-details > div {
+  display: flex;
+  flex-direction: row;
+  margin-top: 10px;
+}
+
+.icon > span {
+  text-align: left;
+  width: 10%;
+}
+
+.detail-values {
+  width: 90%;
+  text-align: right;
+}
